@@ -1,19 +1,20 @@
-# Kirill K.
+# POLYUS
 
-Game designer and indie developer. I make games under **POLYUS / HEAVY WEATHER**.
+Independent game designer and Unity developer. I design mechanics, build them in Unity and test them in practice.
 
-🌐 Portfolio: [polyus.dev](https://polyus.dev)
+**Gameplay design · Technical design · Prototyping**
 
-**Tools:** Unity · C# · .NET MAUI · Python · JavaScript
+[![polyus.dev](https://raw.githubusercontent.com/Thnktwce/heavy-weather-studio/main/docs/screenshot.jpg)](https://polyus.dev)
 
-## Projects
+🌐 **Portfolio and case studies:** [polyus.dev](https://polyus.dev)
 
-| Project | What it is |
+## Selected repositories
+
+| | |
 |---|---|
-| [heavy-weather-studio](https://github.com/Thnktwce/heavy-weather-studio) | Portfolio site — [polyus.dev](https://polyus.dev) |
-| [Platformer](https://github.com/Thnktwce/Platformer) | 2D platformer prototype (Unity) |
-| [Tetris-Core-Gameplay](https://github.com/Thnktwce/Tetris-Core-Gameplay) | Core Tetris gameplay (Unity) |
-| [drill-clicker](https://github.com/Thnktwce/drill-clicker) | Clicker prototype (Unity) |
-| [Memory-Game](https://github.com/Thnktwce/Memory-Game) | Memory card game scripts (Unity) |
-| [Expensetracker](https://github.com/Thnktwce/Expensetracker) | Expense tracker app (.NET MAUI) |
-| [hh-parser](https://github.com/Thnktwce/hh-parser) | hh.ru vacancy parser + Telegram bot (Python) |
+| [**heavy-weather-studio**](https://github.com/Thnktwce/heavy-weather-studio) | Portfolio site — static, JSON-driven, Pages CMS |
+| [**Platformer**](https://github.com/Thnktwce/Platformer) | 2D action platformer prototype — Unity 6, enemy AI, combat, parallax |
+| [**Tetris-Core-Gameplay**](https://github.com/Thnktwce/Tetris-Core-Gameplay) | Tetris core loop — Unity 6, wall kicks, ghost piece, line clears |
+| [**Expensetracker**](https://github.com/Thnktwce/Expensetracker) | Expense and income tracker — .NET MAUI, charts |
+
+**Tools:** Unity · C# · .NET MAUI · JavaScript · Python
